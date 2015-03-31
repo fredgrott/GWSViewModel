@@ -13,7 +13,8 @@ it simple.
 
 # Usage
 
-See the sample application in this repo.
+See the sample application in this repo. Remember, that you can use this in combination with my GWSBindroid
+as that library allows you to notify the UI when the model changes.
 
 # Resources
 ## Articles
