@@ -13,7 +13,7 @@ it simple.
 
 # Usage
 
-
+See the sample application in this repo.
 
 # Resources
 ## Articles
