@@ -65,7 +65,8 @@ Fred Grott(GrottWorkShop) is a mobile developer specializing in android and focu
 on completing consulting contracts for porting iPhone applications to android and
 MVPs for start-ups in the Greater ChicagoLand area. Part of Fred Grott(GWS) focus is
 producing fast android application prototypes in an agile way. Ways to contact are
-via email listed on the github profile page.
+via email listed on the github profile page as I do not obfuscate my email when I
+do github commits.
 
 ## Recruiter Warning
 
@@ -74,6 +75,14 @@ no recruiter has anything to sell me as those like me in that they are computer 
 engineer polyglot have no need to play the broken HR hiring game as we plot our own unique course.
 And if you are a start-up founder that does their own mobile dev recruiting instead of out-sourcing
 it than you might know what I am looking for or seeking.
+
+## What I Want?
+
+If you are a startup in the Northwest Indiana or Chicago and are in-fact seeking a Senior Android Engineer
+that would be able to create either an android application from scratch or port an iOS app to android that
+is testable and maintainable and has a user interface that seduces the mobile device user than you are on-the-road
+to knowing what I might want. Even better if you can match my work-remote paid weekly requirements.
+And that conversation usually starts with a paid meal at my location.
 
 ## Fred Grott's Social Profiles
 
