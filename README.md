@@ -16,6 +16,20 @@ it simple.
 See the sample application in this repo. Remember, that you can use this in combination with my GWSBindroid
 as that library allows you to notify the UI when the model changes.
 
+# Package Naming
+
+What gives?  Most beginning android application developers end up naming different parts of patterns incorrectly
+such as the layout xml file as a view or activities and fragments as views.  Obviously, they are not or
+otherwise Google Engineers would also use the same terms.
+
+View is either a single UI component couploed with a xml layout file and or full groups of UI components and
+their xml layout file. Activities and Fragments are viewControllers as Google wanted a pattern of thin
+views with UI component business logic in viewControllers as that is an easier pattern for beginning
+java developers to learn.
+
+Hence, the two subpackages of library of viewmodel and viewcontrollers.
+
+
 # Resources
 ## Articles
 
