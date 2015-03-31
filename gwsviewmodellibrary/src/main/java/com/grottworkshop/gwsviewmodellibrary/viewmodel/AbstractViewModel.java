@@ -16,6 +16,8 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
+import com.grottworkshop.gwsviewmodellibrary.viewmodel.view.IView;
+
 /**
  * AbstractViewModel class which when properly used gives some methods
  * to our own ViewModel instance that pertain to initialization, getting the view,

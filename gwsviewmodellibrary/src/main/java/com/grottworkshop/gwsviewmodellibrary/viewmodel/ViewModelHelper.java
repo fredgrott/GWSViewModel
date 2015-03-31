@@ -19,6 +19,8 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 
+import com.grottworkshop.gwsviewmodellibrary.viewmodel.view.IView;
+
 import java.util.UUID;
 
 /**

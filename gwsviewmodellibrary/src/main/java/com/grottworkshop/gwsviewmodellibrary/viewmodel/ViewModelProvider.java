@@ -14,6 +14,8 @@ package com.grottworkshop.gwsviewmodellibrary.viewmodel;
 
 import android.support.annotation.NonNull;
 
+import com.grottworkshop.gwsviewmodellibrary.viewmodel.view.IView;
+
 import java.util.HashMap;
 
 /**
